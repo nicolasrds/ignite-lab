@@ -26,7 +26,7 @@ export function Subscriber() {
             }
         })
 
-        navigate('/event')
+        navigate('/event/lesson/aula-1')
 
     }
 
