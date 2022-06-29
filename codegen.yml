@@ -13,3 +13,5 @@ generates:
       withHooks: true
       withHOC: false
       withComponent: false
+      defaultBaseOptions:
+        fetchPolicy: 'no-cache'
